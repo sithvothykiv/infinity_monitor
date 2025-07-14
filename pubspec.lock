@@ -120,7 +120,7 @@ packages:
       path: "third_party/json_shrink_widget"
       relative: true
     source: path
-    version: "1.2.0"
+    version: "0.0.0"
   matcher:
     dependency: transitive
     description:
