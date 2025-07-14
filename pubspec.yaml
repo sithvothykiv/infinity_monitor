@@ -20,4 +20,4 @@ dependencies:
   convert:
 #  url_launcher:
   json_shrink_widget:
-    path: ./json_shrink_widget
+    path: ./third_party/json_shrink_widget
