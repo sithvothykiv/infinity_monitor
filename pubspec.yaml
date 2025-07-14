@@ -19,5 +19,5 @@ dependencies:
   crypto:
   convert:
 #  url_launcher:
-  json_shrink_widget:
-    path: ./third_party/json_shrink_widget
+  json_shrink:
+    path: ./third_party/json_shrink

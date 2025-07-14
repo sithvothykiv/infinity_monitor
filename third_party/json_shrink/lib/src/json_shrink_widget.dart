@@ -4,9 +4,9 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:json_shrink_widget/src/inline_span_ext.dart';
-import 'package:json_shrink_widget/src/json_formatter.dart';
-import 'package:json_shrink_widget/src/json_shrink_style.dart';
+import 'package:json_shrink/src/inline_span_ext.dart';
+import 'package:json_shrink/src/json_formatter.dart';
+import 'package:json_shrink/src/json_shrink_style.dart';
 
 /// @date 26/7/22
 /// describe: 支持json 收缩或者展开

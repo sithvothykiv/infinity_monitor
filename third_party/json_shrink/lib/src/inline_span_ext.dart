@@ -1,7 +1,7 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:json_shrink_widget/src/json_shrink_style.dart';
+import 'package:json_shrink/src/json_shrink_style.dart';
 
 ///更新正则,已匹配转义后的链接
 final RegExp _regexUrl =
