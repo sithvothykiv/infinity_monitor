@@ -117,7 +117,7 @@ packages:
   json_shrink_widget:
     dependency: "direct main"
     description:
-      path: json_shrink_widget
+      path: "third_party/json_shrink_widget"
       relative: true
     source: path
     version: "1.2.0"
