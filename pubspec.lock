@@ -117,9 +117,11 @@ packages:
   json_shrink:
     dependency: "direct main"
     description:
-      path: "third_party/json_shrink"
-      relative: true
-    source: path
+      path: "."
+      ref: HEAD
+      resolved-ref: "39ef975734a0d4c26dae712bf65da4e9a3822ecb"
+      url: "https://github.com/sithvothykiv/json_shrink.git"
+    source: git
     version: "0.0.0"
   matcher:
     dependency: transitive

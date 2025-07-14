@@ -3,7 +3,7 @@ import 'package:flutter/services.dart';
 import 'package:infinity_monitor/monitor/awesome_monitor.dart';
 import 'package:infinity_monitor/monitor/monitor_message_notifier.dart';
 import 'package:infinity_monitor/monitor/utils/inner_utils.dart';
-import 'package:json_shrink_widget/json_shrink_widget.dart';
+import 'package:json_shrink/json_shrink_widget.dart';
 import 'package:oktoast/oktoast.dart';
 
 /// @date 2020/12/17

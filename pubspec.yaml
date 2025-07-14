@@ -20,4 +20,5 @@ dependencies:
   convert:
 #  url_launcher:
   json_shrink:
-    path: ./third_party/json_shrink
+    git:
+      url: https://github.com/sithvothykiv/json_shrink.git
